@@ -61,7 +61,6 @@ or
 Below is the high-level structure of the entire system.
 
 ### Architecture Diagram  
-> Save your exported diagram as: `images/architecture.png`
 
 ![System Architecture](images/architecture.png)
 
@@ -72,7 +71,6 @@ Below is the high-level structure of the entire system.
 This flowchart explains the logical flow of commands, sensors, and AI inference.
 
 ### Flowchart Diagram  
-> Save your exported diagram as: `images/flowchart.png`
 
 ![System Flowchart](images/flowchart.png)
 
