@@ -41,6 +41,21 @@ Then compares these values with real sensor readings.
 
 ---
 
+# How-to Setup
+well you can either:
+1. download the dataset and place it in data_raw, then run the notebooks in order
+or
+2. just straight away add the tflite file to the raspberry pi
+
+- then make sure that the code in the Arduino folder (main.ino) is uploaded to the uno, follow the file for pin connection instructions
+
+- connect the Arduino to the pi via serial usb cable
+
+- make sure the pi camera is mounted correctly
+- try it out for yourself (I have removed my telegram API Key so you can add yours)
+
+---
+
 # System Architecture
 
 Below is the high-level structure of the entire system.
