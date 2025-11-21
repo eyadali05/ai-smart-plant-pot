@@ -147,6 +147,9 @@ This flowchart explains the logical flow of commands, sensors, and AI inference.
 # 📸 Photos  
 (Place your images inside `images/demo/`)
 
+![Prototype](images/demo/prototype.jpg)
+![Prize](images/demo/prize.jpg)
+![Team](images/demo/team.jpg)
 ---
 
 # Contact
